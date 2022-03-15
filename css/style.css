@@ -83,7 +83,7 @@ header nav a:hover {
 /* ---------Banner part---------- */
 .top-container {
   display: flex;
-  background: no-repeat url(/images/banner.jpg);
+  background: no-repeat url(../images/banner.jpg);
   height: 100vh;
   color: white;
   flex-direction: column;
@@ -168,7 +168,7 @@ header nav a:hover {
   align-items: center;
 }
 .form-container {
-  background: url(/images/formpic.jpg);
+  background: url(../images/formpic.jpg);
   width: 98.75vw;
   height: 111vh;
   background-repeat: no-repeat;
